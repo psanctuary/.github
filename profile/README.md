@@ -45,6 +45,7 @@ professional face on GitHub. 🌈🍄
 
 - [`CONTRIBUTING.md`](https://github.com/psanctuary/.github/blob/main/CONTRIBUTING.md)
 - [`SECURITY.md`](https://github.com/psanctuary/.github/blob/main/SECURITY.md)
+- [`SOCIAL-PREVIEWS.md`](https://github.com/psanctuary/.github/blob/main/SOCIAL-PREVIEWS.md): how to refresh link previews in Telegram, LinkedIn, Facebook and more, and which pages have their own share image
 
 
 ## 📄 License
