@@ -76,6 +76,21 @@ Every page here shares one arrival kit: choose a light (Blacklight is this side'
 contrast when you arrive, press <kbd>/</kbd> to search, tap the book for reading mode, and see what's
 new since your last visit. Move your pointer, and mycelium threads reach for the spores nearby.
 
+## 📖 Proposals, procedures and decks
+
+How Psanctuary decides, how it does things once decided, and slides that walk a newcomer through both.
+Drafts are read first by the people who tend this space; a page reaches visitors only when someone marks
+it public.
+
+| Where | What you'll find |
+| --- | --- |
+| 📖 [Reading room](https://psanctuary.github.io/reading-room-public/) | The public lane: everything here that's been marked for visitors, in one place you can read in a browser. |
+| 📋 [Procedures](https://github.com/psanctuary/ops-standard-operating-procedures-public) | The public twin of Psanctuary's procedures (SOPs): *this is how we do it now*, each with a PDF. |
+| 🎞️ [Decks](https://github.com/psanctuary/.github/tree/main/decks) | Slide walk-throughs, starting with [Welcome to Psanctuary](https://github.com/psanctuary/.github/blob/main/decks/welcome.marp.pdf): where everything lives and how a change travels. |
+
+<sub>Want to read the drafts too? Write to info@psanctuary.org or use [the contact form](https://www.psanctuary.org/contact)
+with your GitHub username. [ONBOARDING.md](https://github.com/psanctuary/.github/blob/main/ONBOARDING.md) says the rest.</sub>
+
 ## 👥 People
 
 | | |
@@ -95,7 +110,7 @@ something new grows here. Time will tell.
 | --- | --- |
 | [psanctuary.github.io](https://github.com/psanctuary/psanctuary.github.io) | The entry portal (`/`, `/donate/`, `/pledge/`, `/map/`), which also serves the arrival kit every Psanctuary page shares. |
 | [changelog-astro-public](https://github.com/psanctuary/changelog-astro-public) | The AstroLog's published pages (written in a private source repository). |
-| [.github](https://github.com/psanctuary/.github) | This profile, and the defaults every repository here shares. |
+| [.github](https://github.com/psanctuary/.github) | This profile, the defaults every repository here shares, and the [decks](https://github.com/psanctuary/.github/tree/main/decks). |
 
 ## 🤝 Community health
 
