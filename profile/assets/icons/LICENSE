@@ -1,6 +1,5 @@
 Icons in this folder are from Lucide (https://lucide.dev), lucide-static v0.460.0,
-recoloured with a violet stroke (#7c4dff) so they read in both GitHub themes. octagon.svg is drawn
-for ORG in the same style. The SOP template carries the proposals set plus 45 more from the same release
+recoloured with Psanctuary's teal stroke (#0d9488) so they read in both GitHub themes. The SOP template carries the proposals set plus 45 more from the same release
 (git-pull-request, git-merge, list-checks, square-kanban, workflow, …), fetched 2026-11-01.
 
 ISC License
