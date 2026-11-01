@@ -71,7 +71,13 @@ Co-Authored-By: Codex · CodexCloud · OpenAI [<model>]
   through where everything lives and the road a change travels.
 - **Proposals** (*should we?*) are in [`psanctuary/proposals`](https://github.com/psanctuary/proposals) (members);
   **procedures** (*how we do it now*) in the [public twin](https://github.com/psanctuary/ops-standard-operating-procedures-public);
-  both gather in the [reading room](https://psanctuary.github.io/reading-room-public/).
+  members read every draft in the [reading room](https://github.com/psanctuary/reading-room) (members only; a 404 means
+  you are not in the `readers` team yet), and what is marked for visitors appears in the
+  [public reading room](https://psanctuary.github.io/reading-room-public/).
+- **New to GitHub?** [SOP-COM-001, your first hour](https://github.com/psanctuary/ops-standard-operating-procedures/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md)
+  (members): your own account and password, the invitation, five words, the reading room, a helper.
+- **Commit titles** start with one gitmoji and a type, `:memo: docs(room): …`
+  ([GITMOJI.md](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md)); a hook only hints, it never blocks.
 - **Bringing an AI helper as a member?** Its first page is
   [WELCOME-FOR-YOUR-HELPER.md](https://github.com/psanctuary/.github-private/blob/main/WELCOME-FOR-YOUR-HELPER.md)
   in the members' home (private: it opens only when you're signed in as a member).
