@@ -21,6 +21,15 @@ deeply personal. Please approach content (not just code) with that in mind:
 1. A small fix (a typo, a broken link) can go straight to a pull request.
 2. For anything larger, open an issue first so it can be talked through.
 3. Keep each branch to one change, and say *why* in the commit message, not just what changed.
+4. Start the commit title with one [gitmoji](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md) and a type,
+   for example `:memo: docs(readme): say where the decks live` or `:bug: fix(site): the map link`.
+   [GITMOJI.md](https://github.com/drasticstatic/my-template/blob/main/GITMOJI.md) lists the twelve the fleet uses and
+   why the `:alias:` form; the commit hook only hints, it never blocks.
+5. A person with the role merges, with a **merge commit**, never a squash, so every author's name survives
+   (SOP-OPS-002 in [the procedures](https://github.com/psanctuary/ops-standard-operating-procedures-public)).
+
+New to GitHub? [SOP-COM-001, your first hour](https://github.com/psanctuary/ops-standard-operating-procedures/blob/main/COM/SOP-COM-001-new-to-github-your-first-hour.md)
+(members) and the [welcome deck](decks/welcome.marp.pdf) walk you through it.
 
 ## Reporting problems
 
